@@ -1,0 +1,15 @@
+POST /api/v1/employees HTTP/1.1
+Accept:          application/json, text/plain, */*
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+Connection:      keep-alive
+Content-Length:  78
+Content-Type:    application/x-www-form-urlencoded
+Cookie:          XSRF-TOKEN=eyJpdiI6ImlyYUU1YlZNZ0hSSFU0cU1DRHgydHc9PSIsInZhbHVlIjoiQ1ZnRnhib3AwQU9YRVwvMmZSeEk3MkkzSDB0dE9EQ3dvT2lWUEo5NGJpZnpTMzQ0TmhMRUtJc1ZMdVwvWXNcL29ocnpcL3dadFpsRmxHeUNwbm5YS1wvcnQxQT09IiwibWFjIjoiNDExZjUyM2ZkOTVlYWFlOTVkYzMxZDEwMDJjNzkyMzkxYmJkOTAwMWI5MDIwY2Y1M2I4ZjRjMTQ3ZWViYzAyMCJ9; laravel_session=eyJpdiI6IkNZWlJ3RlZwcTlmSnZORlZqZDJUOUE9PSIsInZhbHVlIjoiRkNcL3dcL2FZd2lMbitjeTlQRk94Y3JXTmZzNVVZajYxOFFWM0J3SXFLS1YwRExLYUo5ZHFhODVXZDZiMXExXC8yRVVSSCtjdUVaVFdMeUVJbkc1K0sySHc9PSIsIm1hYyI6ImU3ZjVjNjE2OTY2YzFiMTBmNGJmOTcyYTQ4YWEwYmY4OGM5MDJhN2MyZmViMjMwOGRlNzFjYTIzZjI3NDQ0YzUifQ%3D%3D
+Host:            localhost:8000
+Origin:          http://localhost:8000
+Referer:         http://localhost:8000/
+User-Agent:      Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36
+X-Xsrf-Token:    eyJpdiI6ImlyYUU1YlZNZ0hSSFU0cU1DRHgydHc9PSIsInZhbHVlIjoiQ1ZnRnhib3AwQU9YRVwvMmZSeEk3MkkzSDB0dE9EQ3dvT2lWUEo5NGJpZnpTMzQ0TmhMRUtJc1ZMdVwvWXNcL29ocnpcL3dadFpsRmxHeUNwbm5YS1wvcnQxQT09IiwibWFjIjoiNDExZjUyM2ZkOTVlYWFlOTVkYzMxZDEwMDJjNzkyMzkxYmJkOTAwMWI5MDIwY2Y1M2I4ZjRjMTQ3ZWViYzAyMCJ9
+
+name=Nyaga&email=nyaga%40gmail.com&contact_number=0704118721&position=director
